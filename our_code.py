@@ -3,4 +3,12 @@ def greeting():
 
 greeting()
 
-print("Hello Worldz")
+def crazy():
+  print("Hello Worldz")
+
+def bug_fix_one():
+  print("I'm fixing this bug")
+
+def bug_fix_two():
+  print("And also this other bug!")
+  
