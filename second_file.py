@@ -4,5 +4,4 @@ def another_greeting():
 def another_greeting():
     print("This amazing job i did")
 
-def another_greeting():
-    print("Some not so great code")
+
