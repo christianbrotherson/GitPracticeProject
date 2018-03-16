@@ -4,8 +4,3 @@ def greeting():
 greeting()
 
 print("Hello Worldz")
-
-print("Hello Worldz")
-print("Hello Worldz")
-print("Hello Worldz")
-print("Hello Worldz")
