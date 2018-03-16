@@ -11,4 +11,9 @@ def bug_fix_one():
 
 def bug_fix_two():
   print("And also this other bug!")
+print("Hello Worldz")
+
+def awesome_feature():
+  print("This is the beginning of something great")
+
   
